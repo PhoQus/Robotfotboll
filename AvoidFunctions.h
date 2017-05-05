@@ -27,7 +27,7 @@
 
     
   void CalculateAvoid(){
-  
+      planState = wait;
   }
 
   void TurnValidateAvoid(){
